@@ -1,13 +1,12 @@
 const ComponentOne =()=>{
     return(
-        <div className="Header">
-            <uL>
+        <div className="header">
+            <ul>
                 <li>Home</li>
                 <li>About</li>
                 <li>Services</li>
                 <li>Github</li>
-            </uL>
-
+            </ul>
         </div>
     )
 };
